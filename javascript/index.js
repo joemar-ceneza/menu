@@ -85,7 +85,7 @@ const sectionCenter = document.querySelector(".section-center");
 const btnContainer = document.querySelector(".btn-container");
 
 window.addEventListener("DOMContentLoaded", function(){
-
+    displayMenuItems(menu);
 });
 
 function displayMenuItems(menuItems){
