@@ -30,6 +30,19 @@ section.menu .title .underline {
   height: 1.25rem;
   margin: 0 auto 2em auto;
 }
+section.menu .btn-container {
+  text-align: center;
+  margin: 4em 0;
+}
+section.menu .btn-container .filter-btn {
+  font-size: 1rem;
+  margin: 0 1em;
+  padding: 0.5em 1em;
+  border-radius: 10px;
+  border: 2px solid burlywood;
+  text-transform: capitalize;
+  cursor: pointer;
+}
 section.menu .section-center {
   max-width: 1200px;
   width: 95%;

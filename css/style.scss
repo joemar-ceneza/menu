@@ -28,6 +28,19 @@ section.menu{
             margin: 0 auto 2em auto;
         }
     }
+    .btn-container{
+        text-align: center;
+        margin: 4em 0;
+        .filter-btn{
+            font-size: 1rem;
+            margin: 0 1em;
+            padding: 0.5em 1em;
+            border-radius: 10px;
+            border: 2px solid burlywood;    
+            text-transform: capitalize;
+            cursor: pointer;
+        }
+    }
     .section-center{
         max-width: 1200px;
         width: 95%;
