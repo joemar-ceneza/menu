@@ -1,7 +1,7 @@
 const menu = [
     {
         id: 1,
-        title: "buttermilk pancakes",
+        title: "pancakes",
         category: "breakfast",
         price: 15.99,
         img: "./images/item-1.jpg",
@@ -12,7 +12,7 @@ const menu = [
         title: "dinner double",
         category: "lunch",
         price: 13.99,
-        img: "./images/item-2.jpeg",
+        img: "./images/item-2.jpg",
         desc: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.`,
     },
     {
@@ -52,7 +52,7 @@ const menu = [
         title: "bacon overflow",
         category: "breakfast",
         price: 8.99,
-        img: "./images/item-7.jpeg",
+        img: "./images/item-7.jpg",
         desc: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.`,
     },
     {
