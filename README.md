@@ -38,10 +38,15 @@ Users should be able to:
 - CSS, Sass
 - Flexbox
 - Desktop-first workflow
-- JavaScript
--
--
--
+- HTML DOM Document addEventListener() Method
+- JavaScript DOMContentLoaded Event
+- JavaScript Array forEach() Method
+- JavaScript Array
+- JavaScript Array join() Method
+- JavaScript Array reduce() Method
+- JavaScript Array map() Method
+- JavaScript Array filter() Method
+- JavaScript If else Statement
 
 ### Useful resources
 
