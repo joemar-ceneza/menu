@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-[![menu](https://user-images.githubusercontent.com/20262557/194297800-e237f5b7-8c90-4db7-b835-46ed73780fe5.PNG)](https://github.com/joemar-ceneza/menu)
+[![menu](https://user-images.githubusercontent.com/20262557/194297800-e237f5b7-8c90-4db7-b835-46ed73780fe5.PNG)](https://joemar-ceneza.github.io/menu/)
 
 ### Links
 
