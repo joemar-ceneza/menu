@@ -34,14 +34,16 @@ Users should be able to:
 
 ### Built with
 
+- Desktop-first workflow
 - Semantic HTML5 markup
 - CSS, Sass
 - Flexbox
-- Desktop-first workflow
 - HTML DOM Document addEventListener() Method
+- HTML DOM Document querySelector() and querySelectorAll()
 - JavaScript DOMContentLoaded Event
-- JavaScript Array forEach() Method
 - JavaScript Array
+- JavaScript Functions
+- JavaScript Array forEach() Method
 - JavaScript Array join() Method
 - JavaScript Array reduce() Method
 - JavaScript Array map() Method
