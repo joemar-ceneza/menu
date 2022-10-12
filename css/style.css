@@ -88,4 +88,32 @@ section.menu .section-center .menu-item .item-info .item-text {
   line-height: 20px;
   color: rgb(105, 102, 102);
   margin: 1em 0;
+}
+
+@media (max-width: 1270px) {
+  section.menu .section-center {
+    max-width: 800px;
+  }
+  section.menu .section-center .menu-item {
+    width: 48.5%;
+  }
+  section.menu .section-center .menu-item img {
+    width: 49%;
+  }
+  section.menu .section-center .menu-item .item-info {
+    max-width: 47%;
+  }
+  section.menu .section-center .menu-item .item-info header h4 {
+    font-size: 0.815rem;
+  }
+  section.menu .section-center .menu-item .item-info header .price {
+    font-size: 0.815rem;
+  }
+  section.menu .section-center .menu-item .item-info .item-text {
+    font-size: 0.65rem;
+    letter-spacing: 1.2px;
+    line-height: 18px;
+    color: rgb(105, 102, 102);
+    margin: 1em 0;
+  }
 }/*# sourceMappingURL=style.css.map */

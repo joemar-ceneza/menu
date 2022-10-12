@@ -90,5 +90,33 @@ section.menu{
 }
 
 @media (max-width: 1270px){
-
+    section.menu{
+        .section-center{
+            max-width: 800px;
+            .menu-item{
+                width: 48.5%;
+                img{
+                    width: 49%;
+                }
+                .item-info{
+                    max-width: 47%;
+                    header{
+                        h4{
+                            font-size: 0.815rem;
+                        }
+                        .price{
+                            font-size: 0.815rem;
+                        }
+                    }
+                    .item-text{
+                        font-size: 0.65rem;
+                        letter-spacing: 1.2px;
+                        line-height: 18px;
+                        color: rgb(105, 102, 102);
+                        margin: 1em 0;
+                    }
+                }
+            }
+        }
+    }
 }
