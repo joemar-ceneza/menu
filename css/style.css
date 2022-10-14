@@ -109,16 +109,48 @@ section.menu .section-center .menu-item .item-info .item-text {
   section.menu .section-center .menu-item .item-info {
     max-width: 47%;
   }
-  section.menu .section-center .menu-item .item-info header h4 {
-    font-size: 0.815rem;
-  }
-  section.menu .section-center .menu-item .item-info header .price {
+  section.menu .section-center .menu-item .item-info header h4,
+section.menu .section-center .menu-item .item-info header .price {
     font-size: 0.815rem;
   }
   section.menu .section-center .menu-item .item-info .item-text {
     font-size: 0.65rem;
     letter-spacing: 1.2px;
     line-height: 18px;
+    color: rgb(105, 102, 102);
+    margin: 1em 0;
+  }
+}
+@media (max-width: 970px) {
+  section.menu .title h2 {
+    font-size: 1.5rem;
+  }
+  section.menu .btn-container {
+    margin: 3.5em 0;
+  }
+  section.menu .btn-container .filter-btn {
+    font-size: 0.7rem;
+  }
+  section.menu .section-center {
+    max-width: 700px;
+  }
+  section.menu .section-center .menu-item {
+    width: 48.3%;
+  }
+  section.menu .section-center .menu-item img {
+    width: 49%;
+  }
+  section.menu .section-center .menu-item .item-info {
+    max-width: 47%;
+  }
+  section.menu .section-center .menu-item .item-info header h4,
+section.menu .section-center .menu-item .item-info header .price {
+    font-size: 0.715rem;
+  }
+  section.menu .section-center .menu-item .item-info .item-text {
+    font-size: 0.5rem;
+    letter-spacing: 1.2px;
+    line-height: 13px;
     color: rgb(105, 102, 102);
     margin: 1em 0;
   }
