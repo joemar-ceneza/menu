@@ -169,3 +169,45 @@ section.menu{
         }
     }
 }
+
+@media (max-width: 740px){
+    section.menu{
+        padding: 3em 0 5em 0;
+        .title{
+            h2{
+                font-size: 1.8rem;
+            }
+        }
+        .btn-container{
+            margin: 3em 0;
+            .filter-btn{
+                font-size: 0.7rem;
+            }
+        }
+        .section-center{
+            max-width: 400px;
+            .menu-item{
+                width: 100%;
+                img{
+                    width: 49%;
+                }
+                .item-info{
+                    max-width: 47%;
+                    header{
+                        h4,
+                        .price{
+                            font-size: 0.715rem;
+                        }
+                    }
+                    .item-text{
+                        font-size: 0.5rem;
+                        letter-spacing: 1.2px;
+                        line-height: 13px;
+                        color: rgb(105, 102, 102);
+                        margin: 1em 0;
+                    }
+                }
+            }
+        }
+    }
+}
