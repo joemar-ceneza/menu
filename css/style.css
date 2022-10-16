@@ -36,7 +36,7 @@ section.menu .btn-container {
 }
 section.menu .btn-container .filter-btn {
   font-size: 1rem;
-  margin: 0 1em;
+  margin: 0.8em 1em;
   padding: 0.5em 1em;
   border-radius: 10px;
   border: 2px solid burlywood;
@@ -166,7 +166,7 @@ section.menu .section-center .menu-item .item-info header .price {
     margin: 3em 0;
   }
   section.menu .btn-container .filter-btn {
-    font-size: 0.7rem;
+    font-size: 0.75rem;
   }
   section.menu .section-center {
     max-width: 400px;
@@ -182,12 +182,12 @@ section.menu .section-center .menu-item .item-info header .price {
   }
   section.menu .section-center .menu-item .item-info header h4,
 section.menu .section-center .menu-item .item-info header .price {
-    font-size: 0.715rem;
+    font-size: 0.815rem;
   }
   section.menu .section-center .menu-item .item-info .item-text {
-    font-size: 0.5rem;
+    font-size: 0.6rem;
     letter-spacing: 1.2px;
-    line-height: 13px;
+    line-height: 16px;
     color: rgb(105, 102, 102);
     margin: 1em 0;
   }
